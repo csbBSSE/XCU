@@ -12,3 +12,5 @@ Unchanged Genes : 0.2-0.5
 
 Recruitment probabilty ranges for all XaXa genes is 0.2-0.5.
 number of factors near each gene is initiated at multiple levels ranging from 100 to 1000. The threshold level of recruitment for turning the gene on is set to 70. The expression probability of genes is sigmoidally dependent on the recruitment levels. Each gene has a degradation probability of 0.35. Simulations are run for 1000 time steps. 
+
+Author: [Kishore Hari](https://github.com/askhari139/)
