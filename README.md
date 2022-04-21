@@ -3,6 +3,9 @@
 This repository contains the codes for the in-silico model that validates the hypothesis for X-chromosome upregulation. 
 To generate the data, the script "dataGen.R" needs to be run. It needs the "func.R", "init.R" and "plot_theme.R" scripts in the working directory.
 
+R version : 4.1.2
+Package dependencies: tidyverse, ggthemes, compiler, rlang, ggstatsplot
+
 The main parameters of the simulation are as follows:
 
 Recruitment probability ranges in XaXi genes:
